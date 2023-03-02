@@ -1,39 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="jest tests" tests="7" failures="2" time="0.277">
-  <testsuite name="" errors="0" failures="2" skipped="0" timestamp="2023-02-26T21:16:42" time="0.266" tests="7">
+<testsuites name="jest tests" tests="7" failures="0" time="0.317">
+  <testsuite name="" errors="0" failures="0" skipped="0" timestamp="2023-03-02T14:05:23" time="0.31" tests="7">
     <testcase classname=" Poprawnie ustawiono domyślną nazwę" name=" Poprawnie ustawiono domyślną nazwę" time="0.001">
     </testcase>
     <testcase classname=" Poprawnie ustawiono domyślny kolor" name=" Poprawnie ustawiono domyślny kolor" time="0">
     </testcase>
     <testcase classname=" Poprawnie ustawiono domyślną słodkość" name=" Poprawnie ustawiono domyślną słodkość" time="0">
     </testcase>
-    <testcase classname=" Poprawnie ustawiono słodkość jeżeli większa niż zakres" name=" Poprawnie ustawiono słodkość jeżeli większa niż zakres" time="0.001">
-      <failure>Error: expect(received).toBe(expected) // Object.is equality
-
-Expected: 10
-Received: &quot;bla&quot;
-    at Object.&lt;anonymous&gt; (/Users/Beata/Library/Application Support/Code/User/globalStorage/leancode.future-collars/futurecollars/fe-js-08-03/tests/test.js:27:29)
-    at Object.asyncJestTest (/Users/Beata/Library/Application Support/Code/User/globalStorage/leancode.future-collars/futurecollars/fe-js-08-03/node_modules/jest-jasmine2/build/jasmineAsyncInstall.js:100:37)
-    at /Users/Beata/Library/Application Support/Code/User/globalStorage/leancode.future-collars/futurecollars/fe-js-08-03/node_modules/jest-jasmine2/build/queueRunner.js:45:12
-    at new Promise (&lt;anonymous&gt;)
-    at mapper (/Users/Beata/Library/Application Support/Code/User/globalStorage/leancode.future-collars/futurecollars/fe-js-08-03/node_modules/jest-jasmine2/build/queueRunner.js:28:19)
-    at /Users/Beata/Library/Application Support/Code/User/globalStorage/leancode.future-collars/futurecollars/fe-js-08-03/node_modules/jest-jasmine2/build/queueRunner.js:75:41
-    at processTicksAndRejections (node:internal/process/task_queues:95:5)</failure>
+    <testcase classname=" Poprawnie ustawiono słodkość jeżeli większa niż zakres" name=" Poprawnie ustawiono słodkość jeżeli większa niż zakres" time="0">
     </testcase>
-    <testcase classname=" Poprawnie ustawiono słodkość jeżeli mniejsza niż zakres" name=" Poprawnie ustawiono słodkość jeżeli mniejsza niż zakres" time="0.002">
-      <failure>Error: expect(received).toBe(expected) // Object.is equality
-
-Expected: 0
-Received: &quot;bla&quot;
-    at Object.&lt;anonymous&gt; (/Users/Beata/Library/Application Support/Code/User/globalStorage/leancode.future-collars/futurecollars/fe-js-08-03/tests/test.js:32:29)
-    at Object.asyncJestTest (/Users/Beata/Library/Application Support/Code/User/globalStorage/leancode.future-collars/futurecollars/fe-js-08-03/node_modules/jest-jasmine2/build/jasmineAsyncInstall.js:100:37)
-    at /Users/Beata/Library/Application Support/Code/User/globalStorage/leancode.future-collars/futurecollars/fe-js-08-03/node_modules/jest-jasmine2/build/queueRunner.js:45:12
-    at new Promise (&lt;anonymous&gt;)
-    at mapper (/Users/Beata/Library/Application Support/Code/User/globalStorage/leancode.future-collars/futurecollars/fe-js-08-03/node_modules/jest-jasmine2/build/queueRunner.js:28:19)
-    at /Users/Beata/Library/Application Support/Code/User/globalStorage/leancode.future-collars/futurecollars/fe-js-08-03/node_modules/jest-jasmine2/build/queueRunner.js:75:41
-    at processTicksAndRejections (node:internal/process/task_queues:95:5)</failure>
+    <testcase classname=" Poprawnie ustawiono słodkość jeżeli mniejsza niż zakres" name=" Poprawnie ustawiono słodkość jeżeli mniejsza niż zakres" time="0">
     </testcase>
-    <testcase classname=" Poprawnie ustawiono domyślny goodForCider" name=" Poprawnie ustawiono domyślny goodForCider" time="0.001">
+    <testcase classname=" Poprawnie ustawiono domyślny goodForCider" name=" Poprawnie ustawiono domyślny goodForCider" time="0">
     </testcase>
     <testcase classname=" Poprawnie ustawiono domyślny goodForJuice" name=" Poprawnie ustawiono domyślny goodForJuice" time="0">
     </testcase>

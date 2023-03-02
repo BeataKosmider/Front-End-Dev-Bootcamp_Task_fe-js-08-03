@@ -17,11 +17,11 @@ class Fruit {
 class Apple extends Fruit {
   // oraz tutaj :)
   constructor(
+    goodForCider = false,
+    goodForJuice = false,
     name,
     color,
-    sweetness,
-    goodForCider = false,
-    goodForJuice = false
+    sweetness
   ) {
     super(name, color, sweetness);
     this.goodForCider = goodForCider;
