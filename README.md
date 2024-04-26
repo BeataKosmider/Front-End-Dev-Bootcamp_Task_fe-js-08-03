@@ -1,4 +1,5 @@
-# 8.3
+# Task performed during Front-End Developer Bootcamp
+## 8.3
 
 Nasza klasa Fruit oraz Apple ma za zadanie tworzyć pewien szablon, zebrać "do kupy" wspólne cechy pewnych elementów. Co jednak się stanie jeżeli podczas wywoływania konstruktorów Apple lub Fruit nie podamy wszystkich niezbędnych parametrów?
 
